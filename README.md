@@ -1,4 +1,4 @@
-:sassy_man: I'm Tran Sy Huy 2002, take me to practice pls
+:sassy_man: I'm Tran Sy Huy, take me to practice pls
 :ok_man:
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
